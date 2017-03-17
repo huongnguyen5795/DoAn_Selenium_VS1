@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/test/java/com/utc/flowershop/appmodules/Register_Action.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/appmodules/SignIn_Action.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/pageobject/Account_Confirm_Page.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/pageobject/FlowerShop_Page.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/pageobject/Home_Page.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/pageobject/LogIn_Page.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/pageobject/QuickSearch_Page.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/testcase/TestCase_FlowerShop.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/testcase/TestCase_QuickSearch.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/testcase/TestCase_Register.java=UTF-8
+encoding//src/test/java/com/utc/flowershop/testcase/TestCase_SignIn.java=UTF-8
