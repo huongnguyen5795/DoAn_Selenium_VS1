@@ -15,7 +15,7 @@ import org.apache.commons.io.FileUtils;
 
 public class Utility {
 	public static WebDriver driver = null ;
-//conhuong cho thuihhhhhhhhhhhhhhhhhhhh
+//conhuong cho thuihhhhhhhhhhhhhhhhhhhh..
 	public static WebDriver openBrowser(String browserName) throws Exception {
 		try {
 //			browserName = ExcelUtils.getCellData(1,5);
